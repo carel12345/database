@@ -1,0 +1,10 @@
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\DataBaseSiswa\DataBaseSiswa\bin\Debug\DataBaseSiswa.exe
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\DataBaseSiswa\DataBaseSiswa\bin\Debug\DataBaseSiswa.pdb
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\DataBaseSiswa\DataBaseSiswa\bin\Debug\DataBaseSiswa.xml
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\DataBaseSiswa\DataBaseSiswa\obj\x86\Debug\DataBaseSiswa.Formkontak.resources
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\DataBaseSiswa\DataBaseSiswa\obj\x86\Debug\DataBaseSiswa.Resources.resources
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\DataBaseSiswa\DataBaseSiswa\obj\x86\Debug\DataBaseSiswa.vbproj.GenerateResource.Cache
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\DataBaseSiswa\DataBaseSiswa\obj\x86\Debug\DataBaseSiswa.exe
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\DataBaseSiswa\DataBaseSiswa\obj\x86\Debug\DataBaseSiswa.xml
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\DataBaseSiswa\DataBaseSiswa\obj\x86\Debug\DataBaseSiswa.pdb
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\DataBaseSiswa\DataBaseSiswa\bin\Debug\DataBaseSiswa.exe.config

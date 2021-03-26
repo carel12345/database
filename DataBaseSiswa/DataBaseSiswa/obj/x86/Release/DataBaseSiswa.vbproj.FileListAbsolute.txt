@@ -1,0 +1,10 @@
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\DataBaseSiswa\DataBaseSiswa\bin\Release\DataBaseSiswa.exe.config
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\DataBaseSiswa\DataBaseSiswa\bin\Release\DataBaseSiswa.exe
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\DataBaseSiswa\DataBaseSiswa\bin\Release\DataBaseSiswa.pdb
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\DataBaseSiswa\DataBaseSiswa\bin\Release\DataBaseSiswa.xml
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\DataBaseSiswa\DataBaseSiswa\obj\x86\Release\DataBaseSiswa.Formkontak.resources
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\DataBaseSiswa\DataBaseSiswa\obj\x86\Release\DataBaseSiswa.Resources.resources
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\DataBaseSiswa\DataBaseSiswa\obj\x86\Release\DataBaseSiswa.vbproj.GenerateResource.Cache
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\DataBaseSiswa\DataBaseSiswa\obj\x86\Release\DataBaseSiswa.exe
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\DataBaseSiswa\DataBaseSiswa\obj\x86\Release\DataBaseSiswa.xml
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\DataBaseSiswa\DataBaseSiswa\obj\x86\Release\DataBaseSiswa.pdb
